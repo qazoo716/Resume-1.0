@@ -1,0 +1,45 @@
+body{
+    background-image:url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/64758727-240e-4a27-b0ed-5da32e3d1423/dcj65ur-1a923848-7cc7-4989-ba7e-27b630c22464.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNjQ3NTg3MjctMjQwZS00YTI3LWIwZWQtNWRhMzJlM2QxNDIzXC9kY2o2NXVyLTFhOTIzODQ4LTdjYzctNDk4OS1iYTdlLTI3YjYzMGMyMjQ2NC5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.uRWq5sHnDlGbwwJS3kBYYOAUGi6HVLRUmuqNrb1Nefc);
+  
+    
+}
+
+.text{
+    color:darkslategrey;
+    line-height: 30px;
+    overflow:auto;
+}
+
+h1{
+    text-align: center;
+    font-family:fantasy;
+    color:#cda3d1;
+    font-size: 45px;
+
+}
+
+h2{
+    color:black;
+    font-size: 25px;
+    margin: 1px;
+}
+
+h3{
+    color:black;
+    font-size: 25px;
+}
+
+td,th{
+    text-align: center;
+    padding: 5px;
+}
+
+#center{
+    background-color:#fffcd6;
+    width: 600px;
+    margin: 0 auto;
+    padding: 40px;
+    padding-top: 1px;
+}
+
+
